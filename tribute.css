@@ -1,0 +1,18 @@
+#image{
+    height: 250px;
+    width: 250px;
+    border-style: solid;
+    border-color: black;
+    border: 1px;
+    background-image:url("Apj\ kalaam.jpg");
+    border-radius: 50%;
+    background-size: cover;
+}
+body{
+    background-color: rgba(112, 122, 128, 0.26);
+}
+#link a {
+    text-decoration: dotted;
+    position:absolute;
+    right: 5px;
+}
